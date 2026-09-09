@@ -24,11 +24,11 @@
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/jonatan-saul-cruz-221903301/" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <!-- Credly -->
-  <a href="https://credly.com" target="_blank">
+  <a href="https://www.credly.com/users/jonatan-saul-cruz/" target="_blank">
     <img src="https://shields.io" alt="Credly" />
   </a>
 </p>
