@@ -9,7 +9,11 @@
 
 ### 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux, vscode, py,sklearn, pytorch, tensorflow, godot,git,github)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,godot,html,wordpress" />
+  </a>
+</p>
 
 
 ---
