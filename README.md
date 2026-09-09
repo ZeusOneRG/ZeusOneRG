@@ -9,11 +9,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="My Skills" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=linux, vscode, py,sklearn, pytorch, tensorflow, godot,git,github)](https://skillicons.dev)
 
 
 ---
